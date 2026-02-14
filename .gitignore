@@ -1,0 +1,17 @@
+# Ignore all node_modules anywhere
+**/node_modules/
+
+# Angular
+dist/
+.angular/
+
+# Spring
+**/target/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
